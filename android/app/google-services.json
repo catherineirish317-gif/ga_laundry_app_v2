@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546118127516",
+    "project_id": "ga-laundry-shop",
+    "storage_bucket": "ga-laundry-shop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546118127516:android:12afdae19568fec8698259",
+        "android_client_info": {
+          "package_name": "com.example.ga_laundry_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFe33PoiVsF62xhekvl6YiDYOalfRPo9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
